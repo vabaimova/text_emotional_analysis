@@ -1,0 +1,14 @@
+texts/adventure/king_solomons_mines.txt
+texts/adventure/the_count_of_monte_cristo.txt
+texts/crime_fiction/crime_and_punishment.txt
+texts/crime_fiction/murder_in_the_gunroom.txt
+texts/fantasy/the_merry_adventures_of_robin_hood.txt
+texts/fantasy/the_wonderful_wizard_of_oz.txt
+texts/horror/dracula.txt
+texts/horror/the_shunned_house.txt
+texts/humor/bill_nyes_history_of_the_united_states.txt
+texts/humor/mr_punchs_country_life.txt
+texts/science_fiction/a_princess_of_mars.txt
+texts/science_fiction/the_eyes_have_it.txt
+texts/western/the_long_shadow.txt
+texts/western/trailin.txt

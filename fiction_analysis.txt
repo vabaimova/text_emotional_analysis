@@ -1,0 +1,30 @@
+###
+test/test1
+
+anger 5 
+fear 6 
+anticipation 16 
+trust 13 
+surprise 1 
+sadness 19 
+joy 15 
+disgust 10 
+negative 34 
+positive 26 
+
+
+###
+test/test2
+
+anger 3 
+fear 7 
+anticipation 5 
+trust 8 
+surprise 6 
+sadness 3 
+joy 1 
+disgust 1 
+negative 13 
+positive 15 
+
+
